@@ -15,7 +15,7 @@ for filepath in $mypath/input/*; do
 	rm -rf $mypath/output/$filename/*
 	#run program and wake up the terminal with applescript
 	osascript $mypath/applescript.applescript
-	./FDF $filepath > $mypath/output/$filename/out 1>&1 &
+	./FDF $filepath > $mypath/output/$filename/out &
 	lastpid=$(echo "$!")
 	#leaks output
 	sleep 1
@@ -27,10 +27,4 @@ for filepath in $mypath/input/*; do
 	leaks $lastpid | grep "leaks for\|malloc" >> $mypath/output/summary
 	#kill the process
 	kill $lastpid
-	#osascript applescript.SCPT $filepath
-	#"tell application "Terminal"
-	#	set currentTab to do script (\"cd FDF && ./FDF \"$filepath\" input/42\")
-	#	activate
-	#end tell"
-	#$fillit $filepath > "$mypath/their_res/$filename"
 done
