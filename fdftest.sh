@@ -11,20 +11,22 @@ for filepath in $mypath/input/*; do
 	cd $FDFPATH
 	
 	#staging
-	mkdir $mypath/output/$filename
+	mkdir $mypath/output/$filename >/dev/null 2>&1
 	rm -rf $mypath/output/$filename/*
 	#run program and wake up the terminal with applescript
 	osascript $mypath/applescript.applescript
-	./FDF $filepath > $mypath/output/$filename/out &
+	./FDF $filepath &> $mypath/output/$filename/out &
 	lastpid=$(echo "$!")
-	#leaks output
+	#leaks output@
 	sleep 1
 	leaks $lastpid > $mypath/output/$filename/leaks1
 	echo "$filename" >> $mypath/output/summary
-	leaks $lastpid | grep "leaks for\|malloc" >> $mypath/output/summary
+	leaks $lastpid | grep "leaks for" >> $mypath/output/summary
 	sleep 1
 	leaks $lastpid > $mypath/output/$filename/leaks2
-	leaks $lastpid | grep "leaks for\|malloc" >> $mypath/output/summary
+	leaks $lastpid | grep "leaks for" >> $mypath/output/summary
 	#kill the process
 	kill $lastpid
 done
+
+echo "TESTING FINISHED!"

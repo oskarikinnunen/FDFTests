@@ -1,19 +1,50 @@
 SUMMARY
 10-2.fdf
-Process 32336: 16240 nodes malloced for 4623 KB
-Process 32336: 0 leaks for 0 total leaked bytes.
-Process 32336: 16240 nodes malloced for 4627 KB
-Process 32336: 0 leaks for 0 total leaked bytes.
+Process 10224: 0 leaks for 0 total leaked bytes.
+Process 10224: 0 leaks for 0 total leaked bytes.
 10-70.fdf
-Process 32375: 16257 nodes malloced for 4702 KB
-Process 32375: 0 leaks for 0 total leaked bytes.
-Process 32375: 16248 nodes malloced for 4701 KB
-Process 32375: 0 leaks for 0 total leaked bytes.
+Process 10248: 0 leaks for 0 total leaked bytes.
+Process 10248: 0 leaks for 0 total leaked bytes.
 100-6.fdf
-Process 32445: 173173 nodes malloced for 8183 KB
-Process 32445: 0 leaks for 0 total leaked bytes.
-Process 32445: 173168 nodes malloced for 8182 KB
-Process 32445: 0 leaks for 0 total leaked bytes.
+Process 10270: 0 leaks for 0 total leaked bytes.
+Process 10270: 0 leaks for 0 total leaked bytes.
 20-60.fdf
-Process 32473: 20867 nodes malloced for 4722 KB
-Process 32473: 0 leaks for 0 total leaked bytes.
+Process 10328: 0 leaks for 0 total leaked bytes.
+Process 10328: 0 leaks for 0 total leaked bytes.
+42
+Process 10348: 0 leaks for 0 total leaked bytes.
+Process 10348: 0 leaks for 0 total leaked bytes.
+42.fdf
+50-4.fdf
+Process 10385: 0 leaks for 0 total leaked bytes.
+Process 10385: 0 leaks for 0 total leaked bytes.
+basictest.fdf
+Process 10408: 0 leaks for 0 total leaked bytes.
+Process 10408: 0 leaks for 0 total leaked bytes.
+elem.fdf
+inv
+mars.fdf
+Process 10465: 0 leaks for 0 total leaked bytes.
+Process 10465: 0 leaks for 0 total leaked bytes.
+pentenegpos.fdf
+Process 10488: 0 leaks for 0 total leaked bytes.
+Process 10488: 0 leaks for 0 total leaked bytes.
+plat.fdf
+pnp_flat.fdf
+Process 10524: 0 leaks for 0 total leaked bytes.
+Process 10524: 0 leaks for 0 total leaked bytes.
+pylone.fdf
+Process 10545: 0 leaks for 0 total leaked bytes.
+Process 10545: 0 leaks for 0 total leaked bytes.
+pyra.fdf
+pyramide.fdf
+spider2
+test1
+Process 10616: 0 leaks for 0 total leaked bytes.
+Process 10616: 0 leaks for 0 total leaked bytes.
+test2
+Process 10641: 0 leaks for 0 total leaked bytes.
+Process 10641: 0 leaks for 0 total leaked bytes.
+test3
+Process 10663: 0 leaks for 0 total leaked bytes.
+Process 10663: 0 leaks for 0 total leaked bytes.

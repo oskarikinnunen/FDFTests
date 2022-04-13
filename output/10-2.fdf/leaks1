@@ -1,23 +1,23 @@
-Process:         FDF [32336]
+Process:         FDF [10224]
 Path:            /Volumes/VOLUME/*/FDF
-Load Address:    0x10579a000
+Load Address:    0x1094f6000
 Identifier:      FDF
 Version:         ???
 Code Type:       X86-64
-Parent Process:  bash [32324]
+Parent Process:  bash [10206]
 
-Date/Time:       2022-04-07 18:12:55.548 +0300
-Launch Time:     2022-04-07 18:12:54.373 +0300
+Date/Time:       2022-04-12 17:18:41.939 +0300
+Launch Time:     2022-04-12 17:18:40.782 +0300
 OS Version:      Mac OS X 10.14.6 (18G9323)
 Report Version:  7
 Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
 Analysis Tool Version:  Xcode 11.3.1 (11C505)
 
-Physical footprint:         21.5M
-Physical footprint (peak):  21.5M
+Physical footprint:         22.2M
+Physical footprint (peak):  22.2M
 ----
 
 leaks Report Version: 4.0
-Process 32336: 16240 nodes malloced for 4623 KB
-Process 32336: 0 leaks for 0 total leaked bytes.
+Process 10224: 16511 nodes malloced for 4957 KB
+Process 10224: 0 leaks for 0 total leaked bytes.
 
