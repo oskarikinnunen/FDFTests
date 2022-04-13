@@ -1,0 +1,4 @@
+1
+1 1 1 1 1 -1
+corrupted size vs. prev_size
+timeout: the monitored command dumped core
