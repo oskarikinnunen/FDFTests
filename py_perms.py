@@ -32,7 +32,7 @@ map4 = \
 "0 1270 -1280\n," + \
 "0 -1280 1270\n"
 
-curmap = map2
+curmap = map3
 lst = list(curmap.split(","))
 #lst = list(" -,\n,1 1,1,1 ,1 ,1 ,1".split(",")) #has segfaults atm
 #lst = list("1 1,\n,1 1,1, 1".split(","))

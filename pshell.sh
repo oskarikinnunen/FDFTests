@@ -1,12 +1,13 @@
 #filecontent=$(cat testfile)
-FDF="/home/oskari/Projects/FDF"
+FDF="/home/oskari/FDFREPO"
 mypath=$(pwd)
 
 #timeout 1s ./FDF $mypath/$1 &>> $mypath/outputs.log
 FILEPATH=$mypath/perm_$2
 echo "$1" > $FILEPATH
+echo "$1" > $mypath/babel/m3_$2
 cd $FDF
-timeout 1s ./FDF $FILEPATH &> /dev/null
+timeout 1s ./FDF $FILEPATH &>> /dev/null
 #./FDF $FILEPATH &> /dev/null
 if [ $? -ne 0 ]; then
 	echo "Exitcode: $?" >> $FILEPATH
@@ -14,7 +15,6 @@ if [ $? -ne 0 ]; then
 	if [ stupid != "" ]; then
 		rm $FILEPATH
 	else
-		timeout 1s ./FDF $FILEPATH &>> $FILEPATH
 		mv $FILEPATH $mypath/fails/perm_$2_FAIL
 	fi
 else
