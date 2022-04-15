@@ -1,5 +1,5 @@
 #filecontent=$(cat testfile)
-FDF="/Users/okinnune/myfdf"
+FDF="/Users/okinnune/FDF"
 mypath=$(pwd)
 
 #timeout 1s ./FDF $mypath/$1 &>> $mypath/outputs.log

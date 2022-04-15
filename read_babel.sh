@@ -15,6 +15,8 @@ bookanim=("
     /
 =======" "     
      /
+=======" "     
+      /
 =======")
 
 
@@ -31,12 +33,12 @@ for filename in $babel/*; do
 	zsh bread.sh $filename &
 	
 	((index=index+1))
-	if [ $((index%10)) -eq 0 ]; then
+	if [ $((index%50)) -eq 0 ]; then
 		clear
-		echo "PROGRESS: $index/$filecount maps tested"
-		echo ""
+		echo "PROGRESS: $index/$filecount maps tested "
+		echo " "
 		((bookindex=bookindex+1))
-		if [ $bookindex -gt 6 ]; then
+		if [ $bookindex -gt 7 ]; then
 			((bookindex=0))
 		fi
 		echo "${bookanim[$bookindex]}"
