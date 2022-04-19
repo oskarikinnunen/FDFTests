@@ -1,0 +1,23 @@
+Process:         fdf [33152]
+Path:            /Volumes/VOLUME/*/fdf
+Load Address:    0x105fc9000
+Identifier:      fdf
+Version:         ???
+Code Type:       X86-64
+Parent Process:  sh [32785]
+
+Date/Time:       2022-04-19 17:10:57.007 +0300
+Launch Time:     2022-04-19 17:10:54.111 +0300
+OS Version:      Mac OS X 10.14.6 (18G9323)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 11.3.1 (11C505)
+
+Physical footprint:         33.6M
+Physical footprint (peak):  33.6M
+----
+
+leaks Report Version: 4.0
+Process 33152: 16666 nodes malloced for 8902 KB
+Process 33152: 0 leaks for 0 total leaked bytes.
+

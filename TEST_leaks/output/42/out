@@ -1,0 +1,989 @@
+SPLIT -2 
+DATA -2 
+clampd -2 
+index 0 
+actual -2 
+
+SPLIT -5 
+DATA -5 
+clampd -5 
+index 1 
+actual -5 
+
+SPLIT -7 
+DATA -7 
+clampd -7 
+index 2 
+actual -7 
+
+SPLIT -10 
+DATA -10 
+clampd -10 
+index 3 
+actual -10 
+
+SPLIT -7 
+DATA -7 
+clampd -7 
+index 4 
+actual -7 
+
+SPLIT -5 
+DATA -5 
+clampd -5 
+index 5 
+actual -5 
+
+SPLIT -2 
+DATA -2 
+clampd -2 
+index 6 
+actual -2 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 7 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 8 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 9 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 10 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 11 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 12 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 13 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 14 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 15 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 16 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 17 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 18 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 19 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 20 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 21 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 22 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 23 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 24 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 25 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 26 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 27 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 28 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 29 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 30 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 31 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 32 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 33 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 34 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 35 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 36 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 37 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 38 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 39 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 40 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 41 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 42 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 43 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 44 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 45 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 46 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 47 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 48 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 49 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 50 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 51 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 52 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 53 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 54 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 55 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 56 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 57 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 58 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 59 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 60 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 61 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 62 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 63 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 64 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 65 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 66 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 67 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 68 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 69 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 70 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 71 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 72 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 73 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 74 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 75 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 76 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 77 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 78 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 79 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 80 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 81 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 82 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 83 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 84 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 85 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 86 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 87 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 88 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 89 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 90 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 91 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 92 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 93 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 94 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 95 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 96 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 97 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 98 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 99 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 100 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 101 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 102 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 103 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 104 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 105 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 106 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 107 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 108 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 109 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 110 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 111 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 112 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 113 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 114 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 115 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 116 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 117 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 118 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 119 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 120 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 121 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 122 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 123 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 124 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 125 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 126 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 127 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 128 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 129 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 130 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 131 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 132 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 133 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 134 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 135 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 136 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 137 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 138 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 139 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 140 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 141 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 142 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 143 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 144 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 145 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 146 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 147 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 148 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 149 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 150 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 151 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 152 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 153 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 154 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 155 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 156 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 157 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 158 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 159 
+actual 99 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 160 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 161 
+actual 0 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 162 
+actual 0 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 163 
+actual 99 
+
+SPLIT 99 
+DATA 99 
+clampd 99 
+index 164 
+actual 99Successfully opened file 

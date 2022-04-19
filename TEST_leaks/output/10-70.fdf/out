@@ -1,0 +1,602 @@
+SPLIT -6 
+DATA -6 
+clampd -6 
+index 0 
+actual -6 
+
+SPLIT -67 
+DATA -67 
+clampd -67 
+index 1 
+actual -67 
+
+SPLIT -61 
+DATA -61 
+clampd -61 
+index 2 
+actual -61 
+
+SPLIT -38 
+DATA -38 
+clampd -38 
+index 3 
+actual -38 
+
+SPLIT 9 
+DATA 9 
+clampd 9 
+index 4 
+actual 9 
+
+SPLIT -16 
+DATA -16 
+clampd -16 
+index 5 
+actual -16 
+
+SPLIT -16 
+DATA -16 
+clampd -16 
+index 6 
+actual -16 
+
+SPLIT 32 
+DATA 32 
+clampd 32 
+index 7 
+actual 32 
+
+SPLIT 56 
+DATA 56 
+clampd 56 
+index 8 
+actual 56 
+
+SPLIT 16 
+DATA 16 
+clampd 16 
+index 9 
+actual 16 
+
+SPLIT 27 
+DATA 27 
+clampd 27 
+index 10 
+actual 27 
+
+SPLIT -63 
+DATA -63 
+clampd -63 
+index 11 
+actual -63 
+
+SPLIT 23 
+DATA 23 
+clampd 23 
+index 12 
+actual 23 
+
+SPLIT -56 
+DATA -56 
+clampd -56 
+index 13 
+actual -56 
+
+SPLIT 63 
+DATA 63 
+clampd 63 
+index 14 
+actual 63 
+
+SPLIT 10 
+DATA 10 
+clampd 10 
+index 15 
+actual 10 
+
+SPLIT 33 
+DATA 33 
+clampd 33 
+index 16 
+actual 33 
+
+SPLIT -9 
+DATA -9 
+clampd -9 
+index 17 
+actual -9 
+
+SPLIT -55 
+DATA -55 
+clampd -55 
+index 18 
+actual -55 
+
+SPLIT 69 
+DATA 69 
+clampd 69 
+index 19 
+actual 69 
+
+SPLIT -44 
+DATA -44 
+clampd -44 
+index 20 
+actual -44 
+
+SPLIT -23 
+DATA -23 
+clampd -23 
+index 21 
+actual -23 
+
+SPLIT -58 
+DATA -58 
+clampd -58 
+index 22 
+actual -58 
+
+SPLIT 12 
+DATA 12 
+clampd 12 
+index 23 
+actual 12 
+
+SPLIT -55 
+DATA -55 
+clampd -55 
+index 24 
+actual -55 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 25 
+actual 0 
+
+SPLIT 21 
+DATA 21 
+clampd 21 
+index 26 
+actual 21 
+
+SPLIT -25 
+DATA -25 
+clampd -25 
+index 27 
+actual -25 
+
+SPLIT 27 
+DATA 27 
+clampd 27 
+index 28 
+actual 27 
+
+SPLIT 48 
+DATA 48 
+clampd 48 
+index 29 
+actual 48 
+
+SPLIT 1 
+DATA 1 
+clampd 1 
+index 30 
+actual 1 
+
+SPLIT 41 
+DATA 41 
+clampd 41 
+index 31 
+actual 41 
+
+SPLIT -38 
+DATA -38 
+clampd -38 
+index 32 
+actual -38 
+
+SPLIT 57 
+DATA 57 
+clampd 57 
+index 33 
+actual 57 
+
+SPLIT 38 
+DATA 38 
+clampd 38 
+index 34 
+actual 38 
+
+SPLIT -17 
+DATA -17 
+clampd -17 
+index 35 
+actual -17 
+
+SPLIT -50 
+DATA -50 
+clampd -50 
+index 36 
+actual -50 
+
+SPLIT -2 
+DATA -2 
+clampd -2 
+index 37 
+actual -2 
+
+SPLIT -63 
+DATA -63 
+clampd -63 
+index 38 
+actual -63 
+
+SPLIT 7 
+DATA 7 
+clampd 7 
+index 39 
+actual 7 
+
+SPLIT 32 
+DATA 32 
+clampd 32 
+index 40 
+actual 32 
+
+SPLIT -46 
+DATA -46 
+clampd -46 
+index 41 
+actual -46 
+
+SPLIT -11 
+DATA -11 
+clampd -11 
+index 42 
+actual -11 
+
+SPLIT 30 
+DATA 30 
+clampd 30 
+index 43 
+actual 30 
+
+SPLIT 10 
+DATA 10 
+clampd 10 
+index 44 
+actual 10 
+
+SPLIT 13 
+DATA 13 
+clampd 13 
+index 45 
+actual 13 
+
+SPLIT -48 
+DATA -48 
+clampd -48 
+index 46 
+actual -48 
+
+SPLIT -37 
+DATA -37 
+clampd -37 
+index 47 
+actual -37 
+
+SPLIT 66 
+DATA 66 
+clampd 66 
+index 48 
+actual 66 
+
+SPLIT -53 
+DATA -53 
+clampd -53 
+index 49 
+actual -53 
+
+SPLIT -54 
+DATA -54 
+clampd -54 
+index 50 
+actual -54 
+
+SPLIT 34 
+DATA 34 
+clampd 34 
+index 51 
+actual 34 
+
+SPLIT 51 
+DATA 51 
+clampd 51 
+index 52 
+actual 51 
+
+SPLIT -40 
+DATA -40 
+clampd -40 
+index 53 
+actual -40 
+
+SPLIT -33 
+DATA -33 
+clampd -33 
+index 54 
+actual -33 
+
+SPLIT 52 
+DATA 52 
+clampd 52 
+index 55 
+actual 52 
+
+SPLIT -62 
+DATA -62 
+clampd -62 
+index 56 
+actual -62 
+
+SPLIT -37 
+DATA -37 
+clampd -37 
+index 57 
+actual -37 
+
+SPLIT -54 
+DATA -54 
+clampd -54 
+index 58 
+actual -54 
+
+SPLIT -9 
+DATA -9 
+clampd -9 
+index 59 
+actual -9 
+
+SPLIT -58 
+DATA -58 
+clampd -58 
+index 60 
+actual -58 
+
+SPLIT 40 
+DATA 40 
+clampd 40 
+index 61 
+actual 40 
+
+SPLIT -30 
+DATA -30 
+clampd -30 
+index 62 
+actual -30 
+
+SPLIT -9 
+DATA -9 
+clampd -9 
+index 63 
+actual -9 
+
+SPLIT 59 
+DATA 59 
+clampd 59 
+index 64 
+actual 59 
+
+SPLIT 7 
+DATA 7 
+clampd 7 
+index 65 
+actual 7 
+
+SPLIT -66 
+DATA -66 
+clampd -66 
+index 66 
+actual -66 
+
+SPLIT -12 
+DATA -12 
+clampd -12 
+index 67 
+actual -12 
+
+SPLIT -18 
+DATA -18 
+clampd -18 
+index 68 
+actual -18 
+
+SPLIT 41 
+DATA 41 
+clampd 41 
+index 69 
+actual 41 
+
+SPLIT -50 
+DATA -50 
+clampd -50 
+index 70 
+actual -50 
+
+SPLIT 67 
+DATA 67 
+clampd 67 
+index 71 
+actual 67 
+
+SPLIT 36 
+DATA 36 
+clampd 36 
+index 72 
+actual 36 
+
+SPLIT 13 
+DATA 13 
+clampd 13 
+index 73 
+actual 13 
+
+SPLIT 12 
+DATA 12 
+clampd 12 
+index 74 
+actual 12 
+
+SPLIT -2 
+DATA -2 
+clampd -2 
+index 75 
+actual -2 
+
+SPLIT -28 
+DATA -28 
+clampd -28 
+indexSuccessfully opened file 
+2022-04-19 17:17:57.680 fdf[34058:110376] [CAMetalLayerDrawable texture] should not be called after already presenting this drawable. Get a nextDrawable instead.
+ 76 
+actual -28 
+
+SPLIT 10 
+DATA 10 
+clampd 10 
+index 77 
+actual 10 
+
+SPLIT -60 
+DATA -60 
+clampd -60 
+index 78 
+actual -60 
+
+SPLIT -58 
+DATA -58 
+clampd -58 
+index 79 
+actual -58 
+
+SPLIT 3 
+DATA 3 
+clampd 3 
+index 80 
+actual 3 
+
+SPLIT -27 
+DATA -27 
+clampd -27 
+index 81 
+actual -27 
+
+SPLIT -52 
+DATA -52 
+clampd -52 
+index 82 
+actual -52 
+
+SPLIT 56 
+DATA 56 
+clampd 56 
+index 83 
+actual 56 
+
+SPLIT 26 
+DATA 26 
+clampd 26 
+index 84 
+actual 26 
+
+SPLIT -52 
+DATA -52 
+clampd -52 
+index 85 
+actual -52 
+
+SPLIT 59 
+DATA 59 
+clampd 59 
+index 86 
+actual 59 
+
+SPLIT -31 
+DATA -31 
+clampd -31 
+index 87 
+actual -31 
+
+SPLIT -48 
+DATA -48 
+clampd -48 
+index 88 
+actual -48 
+
+SPLIT -6 
+DATA -6 
+clampd -6 
+index 89 
+actual -6 
+
+SPLIT -59 
+DATA -59 
+clampd -59 
+index 90 
+actual -59 
+
+SPLIT -30 
+DATA -30 
+clampd -30 
+index 91 
+actual -30 
+
+SPLIT 50 
+DATA 50 
+clampd 50 
+index 92 
+actual 50 
+
+SPLIT 36 
+DATA 36 
+clampd 36 
+index 93 
+actual 36 
+
+SPLIT 5 
+DATA 5 
+clampd 5 
+index 94 
+actual 5 
+
+SPLIT -11 
+DATA -11 
+clampd -11 
+index 95 
+actual -11 
+
+SPLIT 0 
+DATA 0 
+clampd 0 
+index 96 
+actual 0 
+
+SPLIT 60 
+DATA 60 
+clampd 60 
+index 97 
+actual 60 
+
+SPLIT -24 
+DATA -24 
+clampd -24 
+index 98 
+actual -24 
+
+SPLIT -34 
+DATA -34 
+clampd -34 
+index 99 
+actual -34 
+
